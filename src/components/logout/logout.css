@@ -1,0 +1,19 @@
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.content{
+    text-align: center;
+}
+
+.content p{
+    color: #5e5d5d;
+}
+
+.content button{
+    padding: .5rem;
+    font-weight: bold;
+}

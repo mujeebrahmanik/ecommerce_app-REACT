@@ -1,0 +1,27 @@
+.navbar{
+    background-color: rgb(15, 15, 15);
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.navbar h1{
+    color: #ffffff;
+    margin: 0;
+}
+
+.logout{
+    background-color: rgb(252, 85, 8);
+    color: white;
+    padding: .6rem;
+    font-weight: bold;
+    border: none;
+    border-radius: .25rem;
+    cursor: pointer;
+}
+
+.logout:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(141, 0, 0);
+}
+
